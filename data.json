@@ -1,0 +1,39 @@
+{
+  "coins": 8660,
+  "selected_ship": "shop_X1",
+  "selected_bullet": "shop_xx1",
+  "ships": [
+    {
+      "image_name": "shop_X1",
+      "price": 0,
+      "owned": true
+    },
+    {
+      "image_name": "shop_X2",
+      "price": 500,
+      "owned": true
+    },
+    {
+      "image_name": "shop_X3",
+      "price": 1200,
+      "owned": true
+    }
+  ],
+  "bullets": [
+    {
+      "image_name": "shop_xx1",
+      "price": 0,
+      "owned": true
+    },
+    {
+      "image_name": "shop_xx2",
+      "price": 300,
+      "owned": true
+    },
+    {
+      "image_name": "shop_xx3",
+      "price": 500,
+      "owned": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# PyInstaller
+dist/
+build/
+*.spec
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# system
+.DS_Store
+Thumbs.db
